@@ -85,5 +85,8 @@ I'm a full-stack web developer who's passionate about building beautiful, user-c
 <div align="center" style="font-size: 20px">
     <em>Let's connect!</em>
     <br />
-    <a href="mailto:elysiagabe@gmail.com">Email</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://elysiagabe.com">Portfolio</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.linkedin.com/in/elysia-gabe/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/elysia-gabe"><img src="./assets/linkedin.png" width="32px" alt="linkedin icon</a>
+    <a href="mailto:elysiagabe@gmail.com"><img src="./assets/email.png" width="32px" alt="email icon"></a>
+    <a href="http://elysiagabe.com"><img src="./assets/portfolioLink.png" width="32px" alt="portfolio icon" /></a>
 </div>
+
