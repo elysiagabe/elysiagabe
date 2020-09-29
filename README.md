@@ -8,9 +8,9 @@ I'm a full-stack web developer who's passionate about building beautiful, user-c
 - ✨  Open to collaboration as well as full-time and freelance opportunities
 
 ### Languages, Frameworks & Tools
-<div style="display:flex; flex-wrap: wrap">
+
 <img src="./assets/skills/react.png" width="30px" alt="React icon" />
-</div>
+
 
 ![Elysia's github stats](https://github-readme-stats.vercel.app/api?username=elysiagabe&show_icons=true&title_color=00857D&icon_color=00857D&text_color=333333&bg_color=F6F3EE)
 
