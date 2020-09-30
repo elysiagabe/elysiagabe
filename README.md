@@ -8,6 +8,7 @@ I'm a full-stack web developer who's passionate about building beautiful, user-c
 - ✨  Open to collaboration as well as full-time and freelance opportunities
 
 ### Languages, Frameworks & Tools
+<<<<<<< HEAD
 <div style="display:flex; flex-wrap: wrap; align-items: center">
 <img src="./assets/react.png" height="36px" alt="React icon" /> 
 <img src="./assets/redux.png" height="28px" alt="Redux icon" />  
@@ -23,6 +24,11 @@ I'm a full-stack web developer who's passionate about building beautiful, user-c
 <img src="./assets/github.png" height="28px" alt="github icon" /> 
 <img src="./assets/figma.png" height="32px" alt="figma icon" /> 
 </div>
+=======
+
+<img src="./assets/skills/react.png" width="30px" alt="React icon" />
+
+>>>>>>> 0954843aa31c8c8a70ad8442853c6c0e2777c8f5
 
 ![Elysia's github stats](https://github-readme-stats.vercel.app/api?username=elysiagabe&show_icons=true&title_color=00857D&icon_color=00857D&text_color=333333&bg_color=F6F3EE)
 
