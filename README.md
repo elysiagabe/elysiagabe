@@ -3,9 +3,9 @@
 I'm a full-stack web developer who's passionate about building beautiful, user-centered and accessible web apps. 
 
 ### Currently...
-- 👩🏻‍💻  Working on [ReFrame](https://github.com/elysiagabe/reframe), a cognitive reframing app loosely based on CBT techniques
-- 🌱  Learning MongoDB, Apollo GraphQL, TypeScript, and more
-- ✨  Open to collaboration as well as full-time and freelance opportunities
+- 👩🏻‍💻  Software Engineer, Product @ Curology
+- 🌱  Learning Laravel, PHP, TypeScript & more
+- ✨  Open to collaboration & conversation
 
 ### Languages, Frameworks & Tools
 <div style="display:flex; flex-wrap: wrap; align-items: center">
